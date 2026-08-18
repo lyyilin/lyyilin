@@ -1,4 +1,5 @@
 {
+  "username": "lyyilin",
   "widgets": [
     {
       "widgetId": "header",
@@ -11682,5 +11683,6 @@
     "templateStyle": "terminal",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
