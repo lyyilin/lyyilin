@@ -11571,43 +11571,12 @@
       "name": "Languages Widget"
     },
     {
-      "widgetId": "repositories",
-      "position": {
-        "x": 8,
-        "y": 582
-      },
-      "size": {
-        "width": 776,
-        "height": 248
-      },
-      "config": {
-        "repoCardHeight": 66,
-        "showRepoDesc": true,
-        "showRepoUpdated": true,
-        "repoViewMode": "grid",
-        "maxRepos": 4,
-        "showTitle": true,
-        "customTitle": "我的项目",
-        "hideBorder": false,
-        "hideDecorations": false,
-        "showRepoForks": false,
-        "showRepoStars": true,
-        "showRepoLanguage": true,
-        "repoSortBy": "stars"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1787021657329_4",
-      "name": "Repositories Widget"
-    },
-    {
       "instanceId": "widget_1787022455888",
       "widgetId": "contribution-snake",
       "name": "Contribution-snake Widget",
       "position": {
         "x": 16,
-        "y": 838
+        "y": 598
       },
       "size": {
         "width": 776,
