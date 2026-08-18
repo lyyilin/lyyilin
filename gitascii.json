@@ -11571,26 +11571,6 @@
       "name": "Languages Widget"
     },
     {
-      "instanceId": "widget_1787022455888",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 16,
-        "y": 598
-      },
-      "size": {
-        "width": 776,
-        "height": 216
-      },
-      "config": {
-        "hideDecorations": false,
-        "hideBorder": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_1787022798725",
       "widgetId": "ghstats",
       "name": "Ghstats Widget",
